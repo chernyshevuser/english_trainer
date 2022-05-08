@@ -6,10 +6,5 @@
 using namespace std;
 
 int main() {
-
-    translator::Translator translator;
-
-
-
     return 0;
 }
